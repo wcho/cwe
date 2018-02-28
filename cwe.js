@@ -3,6 +3,7 @@
 bug1;
 bug2;
 bug3;
+bug4;
 
 
     function CWE_476() { // NULL_POINTER
