@@ -1,17 +1,7 @@
 // This will show examples related with the Common Weakness Enumeration (CWE).
 
 bug1;
-bug2;
-bug3;
-bug4;
-bug5;
-bug6;
-bug7;
-bug8;
-bug9;
-bug10;
-bug11;
-bug12;
+
 
     function CWE_476() { // NULL_POINTER
         var obj;
