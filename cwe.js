@@ -6,7 +6,6 @@ bug3;
 bug4;
 bug5;
 bug6;
-bug7;
 
     function CWE_476() { // NULL_POINTER
         var obj;
