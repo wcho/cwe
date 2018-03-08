@@ -11,6 +11,8 @@ bug8;
 bug9;
 bug10;
 
+x1;
+
     function CWE_476() { // NULL_POINTER
         var obj;
         var y = obj.x;
