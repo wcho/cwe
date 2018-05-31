@@ -3,10 +3,6 @@
 bug1;
 bug2;
 bug3;
-bug4;
-bug5;
-bug6;
-
     function CWE_476() { // NULL_POINTER
         var obj;
         var y = obj.x;
