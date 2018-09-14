@@ -11,10 +11,3 @@ const z = 0;
 z = 1;
 
 xx
-yy
-zz
-aa
-bb
-cc
-dd
-ee
