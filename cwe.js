@@ -10,10 +10,3 @@ y = 1;
 
 const z = 0;
 z = 1;
-
-xx
-xx
-vv
-zz
-kasjak
-dff
