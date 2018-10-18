@@ -1,5 +1,6 @@
 a
 b
+c
 
 const x = 0;
 x = 1;
