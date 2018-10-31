@@ -7,3 +7,4 @@ bug9
 bug10
 a
 b
+c
