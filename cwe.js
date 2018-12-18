@@ -8,3 +8,4 @@ bug10
 a
 b
 c
+d
