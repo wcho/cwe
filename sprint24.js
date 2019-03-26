@@ -10,6 +10,3 @@ function CWE_476() { // NULL_POINTER
     var y = obj.x;  // UNINITIALIZED_LOCAL_VAR
     console.log(y);
 }
-
-const a = 0;
-a = 1;
