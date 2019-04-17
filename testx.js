@@ -1,1 +1,1 @@
-$(document).on('click', () => { console.log('clicked'); throw new Error(new Date()); });
+$(document).on('click', () => { console.log('clicked'); var x = a.b; });
