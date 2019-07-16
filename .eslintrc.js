@@ -5,8 +5,8 @@ module.exports = {
     "plugin:import/errors",
     "plugin:import/warnings"
   ],
-  "parserOptions": {
-    "ecmaVersion": 6,
-    "sourceType": "module"
-  },
+//   "parserOptions": {
+//     "ecmaVersion": 6,
+//     "sourceType": "module"
+//   },
 };
