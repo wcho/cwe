@@ -4,5 +4,9 @@ module.exports = {
     "eslint:recommended",
     "plugin:import/errors",
     "plugin:import/warnings"
-  ]
+  ],
+  "parserOptions": {
+    "ecmaVersion": 6,
+    "sourceType": "module"
+  },
 };
