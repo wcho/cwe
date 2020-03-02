@@ -1,2 +1,1 @@
-aaa
-bbb
+a = a;
