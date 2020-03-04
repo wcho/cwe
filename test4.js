@@ -1,8 +1,2 @@
-$(document).on('click', handler);
-function handler() {
-  test();
-}
-function test() {
-  console.log('clicked');
-  Promise.reject('test');
-}
+const a = 0
+a = 1
