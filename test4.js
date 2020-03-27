@@ -1,2 +1,4 @@
-const a = 0
-a = 1
+function a() {
+    var func = <T>(x: T):
+    var aaa = '';
+}
