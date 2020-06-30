@@ -1,4 +1,12 @@
-module.exports = {
-  "env": { "browser": true, "es6": true },     
-  "extends": "@vue/eslint-config-typescript" 
-};
+{
+    "parserOptions": {
+        "ecmaVersion": 6,
+        "sourceType": "module",
+        "ecmaFeatures": {
+            "jsx": true
+        }
+    },
+    "rules": {
+        "semi": "error"
+    }
+}
