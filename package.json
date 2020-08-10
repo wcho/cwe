@@ -9,15 +9,9 @@
   "author": "",
   "license": "ISC",
   "eslintConfig": {
-    "parserOptions": {
-        "ecmaVersion": 6,
-        "sourceType": "module",
-        "ecmaFeatures": {
-            "jsx": true
-        }
-    },
-    "rules": {
-        "semi": "error"
-    }
-}
+    "extends": [
+      "react-app"
+    ],
+    "plugins": []
+  }
 }
