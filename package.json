@@ -12,6 +12,9 @@
     "extends": [
       "react-app"
     ],
-    "plugins": []
+    "plugins": [],
+    "rules": {
+      "unknown-rule": "error"
+    }
   }
 }
