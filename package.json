@@ -14,7 +14,7 @@
     ],
     "plugins": [],
     "rules": {
-      "unknown-rule": "error"
+      "jest/no-done-callback": "error"
     }
   }
 }
