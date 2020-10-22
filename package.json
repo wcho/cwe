@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "eslintConfig": {
-    "extends": ["plugin:jest/recommended"]
+    "extends": ["plugin:jest/recommended"],
     "plugins": ["jest"],
     "rules": {
       "jest/no-done-callback": "error"
