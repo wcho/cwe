@@ -9,9 +9,7 @@
   "author": "",
   "license": "ISC",
   "eslintConfig": {
-    "extends": [
-      "react-app"
-    ],
+    "extends": ["plugin:jest/recommended"]
     "plugins": ["jest"],
     "rules": {
       "jest/no-done-callback": "error"
