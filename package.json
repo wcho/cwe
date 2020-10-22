@@ -12,7 +12,7 @@
     "extends": [
       "react-app"
     ],
-    "plugins": [],
+    "plugins": ["jest"],
     "rules": {
       "jest/no-done-callback": "error"
     }
