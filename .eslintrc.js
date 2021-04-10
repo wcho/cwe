@@ -8,5 +8,6 @@ module.exports = {
     },
     "rules": {
         "semi": "error"
-    }
+    },
+    "noInlineConfig": true
 }
