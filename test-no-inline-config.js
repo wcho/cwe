@@ -1,2 +1,2 @@
-/*eslint-disable*/
+/*eslint-enable*/
 a
