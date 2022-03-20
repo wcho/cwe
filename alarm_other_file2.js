@@ -5,3 +5,6 @@ export function foo(x) {
 export function bar(x) {
   return x;
 }
+
+const a = 0;
+a = 1;
